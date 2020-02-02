@@ -18,11 +18,18 @@ image: assets/images/qilip_nebula.jpg
 #### YAML front matter.
 
 featured post - featured:true
+
 exclude featured post from “All stories” loop to avoid duplicated posts - hidden:true
+
 post image - image: assets/images/mypic.jpg
+
 external post image - image: "https://externalwebsite.com/image4.jpg"
+
 page comments - comments:true
+
 meta description (optional) - description: "this is my meta description"
+
+
 
 ```html
 ---
